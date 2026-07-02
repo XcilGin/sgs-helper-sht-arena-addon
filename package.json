@@ -1,0 +1,16 @@
+{
+  "name": "sgs-helper-sht-arena-addon",
+  "version": "0.1.0",
+  "description": "Addon module for sgs-helper-main to read SHT arena opponent skills and assist first-strike selection.",
+  "main": "src/sht-arena-addon.js",
+  "scripts": {
+    "check": "node --check src/sht-arena-addon.js"
+  },
+  "keywords": [
+    "sanguosha",
+    "sgs-helper",
+    "shanhetu",
+    "addon"
+  ],
+  "license": "MIT"
+}
